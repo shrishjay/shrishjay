@@ -1,4 +1,4 @@
-#+BEGIN_SRC html
+
 <h1 align="center">Hi 👋, I'm Shrishjay Acharya</h1>
 <h3 align="center">A passionate Data Science and Linux Enthusiast from India</h3>
 
@@ -23,4 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrishjay&show_icons=true&locale=en" alt="shrishjay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrishjay&" alt="shrishjay" /></p>
-#+END_SRC
+
