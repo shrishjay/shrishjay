@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrishjay Acharya</h1>
-<h3 align="center">A passionate Data Science and Linux Enthusiast from India</h3>
+<h3 align="center">A passionate Data Science student and Linux Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishjay&label=Profile%20views&color=0e75b6&style=flat" alt="shrishjay" /> </p>
 
