@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Shrishjay Acharya<br>A passionate Data Science student and Linux Enthusiast from India.
+Hi 👋, I'm Shrishjay Acharya<br>A passionate Data Science student and GBU/Linux Enthusiast from India.
 
 
 ## 🌐 Socials:
